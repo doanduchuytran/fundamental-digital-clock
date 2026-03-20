@@ -20,5 +20,6 @@ I designed a small Finite State Machine to fulfil the requirements of this proje
 * **DISPLAY_DATE**: display date information
 * **OFF_1**: stop display anything when displaying date.
 * **OFF_2**: stop display anything when displaying time.
+![Mock Project FSM](https://github.com/user-attachments/assets/b4d89fbf-497d-4ba6-8f46-cf975b16a1a7)
 
 ## Demo Video
