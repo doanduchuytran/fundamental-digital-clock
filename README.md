@@ -23,3 +23,5 @@ I designed a small Finite State Machine to fulfil the requirements of this proje
 ![Mock Project FSM](https://github.com/user-attachments/assets/b4d89fbf-497d-4ba6-8f46-cf975b16a1a7)
 
 ## Demo Video
+This video shows the digital clock running on the NXP S32K MCU with UART-based time/date setting and 8-digit 7-segment display output.
+[![Digital Clock Demo](demo/demo_video_thumbnail.jpg)](demo/demo_video.mp4)
